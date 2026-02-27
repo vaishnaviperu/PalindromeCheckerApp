@@ -32,6 +32,7 @@
   "keyToString": {
     "Application.PalindromeCheckerApp.executor": "Run",
     "Application.UseCase4PalindromeCheckerApp.executor": "Run",
+    "Application.UseCase5PalindromeCheckerApp.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
